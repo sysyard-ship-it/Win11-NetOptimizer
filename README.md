@@ -2,5 +2,5 @@
 
 Prueba la conexión a internet Lan y wifi
 Cambia DNS mas rapidos
-resetea DND
+resetea DNS, crea respaldo
 etc.
